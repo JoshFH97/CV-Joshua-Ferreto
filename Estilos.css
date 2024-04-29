@@ -54,3 +54,91 @@ left: -130px;
     align-items: center;
     gap: 10px;
 }
+.skills {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+h2 {
+    margin-left: 20px;
+}
+.english {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.CI {
+    fill: none;
+    stroke: rgb(58, 58, 58);
+    stroke-width: 10;
+    stroke-dasharray: 85;
+    transform: rotate(-90deg);
+    transform-origin: 50%;
+}
+.C2 {
+    fill: none;
+    stroke: rgb(218, 217, 217);
+    stroke-width: 20;
+    stroke-dasharray: 110;
+    transform: rotate(-90deg);
+    transform-origin: 50%;
+}
+.spanish {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.CS {
+    fill: none;
+    stroke: rgb(58, 58, 58);
+    stroke-width: 10;
+    stroke-dasharray: 95;
+    transform: rotate(-90deg);
+    transform-origin: 50%;
+}
+.Customer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.CCS {
+    fill: none;
+    stroke: rgb(58, 58, 58);
+    stroke-width: 10;
+    stroke-dasharray: 90;
+    transform: rotate(-90deg);
+    transform-origin: 50%;
+}
+.marketing {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.CDM {
+    fill: none;
+    stroke: rgb(58, 58, 58);
+    stroke-width: 10;
+    stroke-dasharray: 75;
+    transform: rotate(-90deg);
+    transform-origin: 50%;
+}
+.cisco {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.CCNA {
+    fill: none;
+    stroke: rgb(58, 58, 58);
+    stroke-width: 10;
+    stroke-dasharray: 50;
+    transform: rotate(-90deg);
+    transform-origin: 50%;
+}
